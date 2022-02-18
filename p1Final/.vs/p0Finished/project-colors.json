@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e841c88-97f2-4bfa-be77-a9bc13e99a06": {
+      "ProjectGuid": "2e841c88-97f2-4bfa-be77-a9bc13e99a06",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 0
+    },
+    "ef715bf2-a5ce-4d3d-9663-ea27d3aeff10": {
+      "ProjectGuid": "ef715bf2-a5ce-4d3d-9663-ea27d3aeff10",
+      "DisplayName": "DL",
+      "ColorIndex": 1
+    },
+    "9317cbbf-3c8a-42fc-9058-622f95a47ed5": {
+      "ProjectGuid": "9317cbbf-3c8a-42fc-9058-622f95a47ed5",
+      "DisplayName": "BL",
+      "ColorIndex": 2
+    },
+    "66e47089-559c-4375-a7c1-add506969e85": {
+      "ProjectGuid": "66e47089-559c-4375-a7c1-add506969e85",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "2d4cd8b4-ed81-4d06-ae56-6b0a52f92759": {
+      "ProjectGuid": "2d4cd8b4-ed81-4d06-ae56-6b0a52f92759",
+      "DisplayName": "Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

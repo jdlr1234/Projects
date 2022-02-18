@@ -1,0 +1,22 @@
+2022-01-25 04:01:24.713 -07:00 [INF] Someone has started using app
+2022-01-25 04:04:08.729 -07:00 [INF] Someone has started using app
+2022-01-25 04:04:52.653 -07:00 [INF] New Store Was Created
+2022-01-25 04:10:46.990 -07:00 [INF] Someone has started using app
+2022-01-25 04:11:03.432 -07:00 [INF] User with username: jdlr logged in.
+2022-01-25 04:12:04.594 -07:00 [INF] New Product was added
+2022-01-25 08:08:17.325 -07:00 [INF] Someone has started using app
+2022-01-25 08:19:59.528 -07:00 [INF] Someone has started using app
+2022-01-25 08:20:39.213 -07:00 [INF] Someone has started using app
+2022-01-25 08:22:28.101 -07:00 [INF] Someone has started using app
+2022-01-25 08:24:13.955 -07:00 [INF] Someone has started using app
+2022-01-25 08:53:25.338 -07:00 [INF] Someone has started using app
+2022-01-25 08:53:55.120 -07:00 [INF] Someone has started using app
+2022-01-25 09:06:40.762 -07:00 [INF] Someone has started using app
+2022-01-25 09:07:36.359 -07:00 [INF] Someone has started using app
+2022-01-25 10:56:59.516 -07:00 [INF] Someone has started using app
+2022-01-25 12:12:48.387 -07:00 [INF] Someone has started using app
+2022-01-25 12:15:21.581 -07:00 [INF] New Store Was Created
+2022-01-25 12:17:00.608 -07:00 [INF] User with username: jdlr1 logged in.
+2022-01-25 12:23:52.954 -07:00 [INF] Someone has started using app
+2022-01-25 13:13:07.620 -07:00 [INF] Someone has started using app
+2022-01-25 13:15:03.493 -07:00 [INF] New Product was added
